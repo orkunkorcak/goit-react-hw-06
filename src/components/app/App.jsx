@@ -1,5 +1,5 @@
 import ContactForm from '../contactForm/ContactForm';
-import SearchBox from '../searchBox/Searchbox';
+import SearchBox from '../searchBox/SearchBox';
 import ContactList from '../contactList/ContactList';
 import css from './App.module.css'
 
